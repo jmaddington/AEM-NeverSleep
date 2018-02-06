@@ -1,0 +1,13 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Never Sleep/Hibernate</name>
+    <category>scripts</category>
+    <description>Sets PCs to never sleep or hibernate when plugged in. Only affects the current power profile.</description>
+    <uid>ca71f275-38f5-4371-b26c-07ffd4c881d5</uid>
+    <hash />
+    <version>3</version>
+    <timeout>3600</timeout>
+    <securityLevel>1</securityLevel>
+    <installType>batch</installType>
+  </general>
+</component>
